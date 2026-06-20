@@ -2,6 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
 ![Flask](https://img.shields.io/badge/Flask-3.0%2B-black?logo=flask)
+![App Dashboard](personal-finance-tracker_output.png)
 ![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?logo=sqlite)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
